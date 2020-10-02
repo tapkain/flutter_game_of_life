@@ -4,4 +4,4 @@ Flutter Game Of Life
 
 ## Getting Started
 
-Flutter game of life.
+demo at: https://codepen.io/tapkain/pen/bGpPORY
